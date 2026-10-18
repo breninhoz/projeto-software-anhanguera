@@ -1,0 +1,8 @@
+Projeto de Software - Anhanguera
+
+Aluno: Brenner Wilker Dias Gila
+Atividade: Gerenciamento de Configuração
+
+Objetivo:
+Demonstrar o uso do Git e do GitHub para controlar
+as versões dos arquivos de um projeto de software.
